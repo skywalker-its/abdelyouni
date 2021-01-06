@@ -8,8 +8,8 @@ Hello there! I'm <b><a rel='nofollow noopener noreferrer' target='_blank' href='
 <hr>
 <p align='center'>
 <span>Say hi ✋ to my new follower </span></br></br>
-<img src='https://avatars0.githubusercontent.com/u/4815363?s=100&amp;v=4'><img src='https://maisonpizza.com/github/abdelyouni/1609918512_img.png' width='1' height='1'><b></br>
-<a rel='nofollow noopener noreferrer' target='_blank' href='https://github.com/dorianm'>Dorian Monnier</a></b></br></br>
+<img src='https://avatars3.githubusercontent.com/u/15234427?s=100&amp;v=4'><img src='https://maisonpizza.com/github/abdelyouni/1609918514_img.png' width='1' height='1'><b></br>
+<a rel='nofollow noopener noreferrer' target='_blank' href='https://github.com/kburaky'>Burak Yılmaz</a></b></br></br>
 </p>
 <hr>
 <b>Follow me, then refresh this page twice (Double Refresh) to see the Magic ✨😉</b> 
